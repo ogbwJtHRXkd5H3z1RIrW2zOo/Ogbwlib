@@ -1,0 +1,1 @@
+/** * @file typedef.h * Define some types in order to make more obvious how many bytes each type takes.*/#ifndef TYPEDEF_H#define TYPEDEF_H#define null ((void*)0)#define false 0;#define true 1typedef char bool;typedef char S8;typedef unsigned char U8;typedef short S16;typedef unsigned short U16;typedef long S32;typedef unsigned long U32;#endif // TYPEDEF_H

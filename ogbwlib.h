@@ -1,0 +1,1 @@
+#ifndef _OGBWLIB_H_#define _OGBWLIB_H_#define FCY 40000000#include <p33Fxxxx.h>#include "typedef.h"#include "modules/PPinSelect.h"#include "modules/digitalIO.h"#include "modules/systemtools.h"#include "modules/DMA.h"#endif
